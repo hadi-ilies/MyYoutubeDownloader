@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to MyYoutubeDownloader 👋</h1>
 
-> This program is a simple Youtube downloader "encapsulation" that is written in Golang. this youtubeDownloader is available Directly Through a CLI or an API. I wrote this program because I enjoy downloading musics and videos illegaly from youtube.
+> This program is a simple Youtube downloader "encapsulation" that is written in Golang. this youtubeDownloader is available through a CLI or an API. 
+I wrote this program because I enjoy downloading musics and videos illegally from youtube.
 
 ## Usage
 
